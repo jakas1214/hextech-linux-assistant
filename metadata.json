@@ -1,0 +1,5 @@
+{
+  "name": "Hextech Linux Assistant",
+  "description": "An AI-powered companion app to help users install, configure, and troubleshoot League of Legends on Linux distributions using custom-generated scripts and expert guides.",
+  "requestFramePermissions": []
+}
